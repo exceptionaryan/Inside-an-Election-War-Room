@@ -1,0 +1,22 @@
+Analysis of your constituents is one of the most vital steps in today’s Political landscape. 
+The analysis of this data not only helps in formulating policies catering to different vote banks but also helps in micromanagement using technology.
+In this assignment you have to analyse the following Voters database according to the following headers. 
+Database Link: https://docs.google.com/spreadsheets/d/1L8f1prVySZJ4x7ljwm89FNgRfqQvRb9V/edit#gid=573060259
+You can do this assignment in any programming language, though it is easier in R or Python.
+Few Resources can be found below.
+
+  1.	Demographic Analysis
+      a.	Surname Analysis
+      b.	Religion Analysis (only Muslim)
+      c.	Count of Male/Female Ratio in that Religion.
+      d.	Unmarried Females in the Religion
+  2.	Family Analysis
+      a.	Family Size Analysis (A family is defined as members with same houseno grouped under PartNo, SectionNo)
+      b.	Head of Family (Either Eldest Male or Eldest member of the family as client says)
+      c.	Single Voters (Only person in the house)
+  3.	General Analysis
+      a.	First-time Voters
+      b.	Unmarried Females
+      c.	Unique Phone Number Count
+      d.	Percentage of Family with phone numbers (1 or more unique Phone Numbers)  
+    
